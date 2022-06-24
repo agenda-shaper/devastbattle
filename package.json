@@ -24,6 +24,7 @@
     "email-validator": "^2.0.4",
     "express": "^4.17.1",
     "express-rate-limit": "^5.5.0",
+    "heroku": "^7.60.2",
     "intersects": "^2.7.2",
     "leo-profanity": "^1.5.0",
     "on-screen-keyboard-detector": "^2.3.0",
