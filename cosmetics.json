@@ -1,0 +1,117 @@
+{
+    "skins": [
+        {
+            "name": "player",
+            "displayName": "Default",
+            "url": "/assets/images/player.png",
+            "price": 0,
+            "description": "The default skin"
+        },
+        {
+            "name": "neon",
+            "displayName": "Neon",
+            "url": "/assets/images/neonPlayer.png",
+            "price": 100,
+            "description": "Ahhh.. So bright!"
+        },
+        {
+            "name": "vortex",
+            "displayName": "Vortex",
+            "url": "/assets/images/vortexPlayer.png",
+            "price": 200,
+            "description": "The power is too strong.."
+        },
+        {
+            "name": "fox",
+            "displayName": "Fox",
+            "url": "/assets/images/foxPlayer.png",
+            "price": 500,
+            "description": "Very sneaky"
+        },
+        {
+            "name": "spring",
+            "displayName": "Spring",
+            "url": "/assets/images/springPlayer.png",
+            "price": 1000,
+            "description": "Spring is here!"
+        },
+        {
+            "name": "hacker",
+            "displayName": "Hacker",
+            "url": "/assets/images/hackerPlayer.png",
+            "price": 5000,
+            "description": "ℙ𝕣𝕠 𝕙𝕒𝕔𝕜𝕖𝕣"
+        },
+        {
+            "name": "chef",
+            "displayName": "Chef",
+            "url": "/assets/images/chefPlayer.png",
+            "price": 10000,
+            "description": "Chop 'em up"
+        },
+        {
+            "name": "ninja",
+            "displayName": "Ninja",
+            "url": "/assets/images/ninjaPlayer.png",
+            "price": 20000,
+            "description": "A skilled warrior"
+        },
+        {
+            "name": "medic",
+            "displayName": "Medic",
+            "url": "/assets/images/medicPlayer.png",
+            "price": 50000,
+            "description": "Heal.. or Stab..."
+        },
+        {
+            "name": "winter",
+            "displayName": "Winter",
+            "url": "/assets/images/winterPlayer.png",
+            "price": 100000,
+            "description": "I like it cold."
+        },
+        {
+            "name": "angel",
+            "displayName": "ANGEL",
+            "url": "/assets/images/angelPlayer.png",
+            "price": 500000,
+            "description": "Dedicated to ANGEL, worlds #1 player"
+        },
+        {
+            "name": "devil",
+            "displayName": "Devil",
+            "url": "/assets/images/devilPlayer.png",
+            "price": 1000000,
+            "description": "Now this will scare everyone!"
+        },
+        {
+            "name": "cookie",
+            "displayName": "Cookie",
+            "url": "/assets/images/cookiePlayer.png",
+            "price": 1500000,
+            "description": "Scrumptious!"
+        },
+        {
+            "name": "mitblade",
+            "displayName": "MitBald",
+            "url": "/assets/images/mitbladePlayer.png",
+            "price": 2000000,
+            "description": "\"Buy channel membership only $3!!!!\""
+        },
+        {
+            "name": "scythe",
+            "displayName": "Scythe",
+            "url": "/assets/images/scythePlayer.png",
+            "price": 5000000,
+            "description": "I'm coming for you!"
+        },
+        {
+            "name": "codergautamyt",
+            "displayName": "Coder Gautam YT",
+            "url": "/assets/images/codergautamytPlayer.png",
+            "price": 10000000,
+            "description": "The most dominant player.."
+        }
+
+    ]
+}
